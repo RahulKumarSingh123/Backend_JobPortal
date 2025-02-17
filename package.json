@@ -4,7 +4,6 @@
     "description": "This is the backend of a basic job portal made to practice and revise learnt topics.",
     "main": "server.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
         "start": "nodemon server.js",
         "build": "npm install"
     },
